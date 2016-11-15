@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{93A006C2-75EA-1DAF-AAD4-8F02DE2D3DAC}") = "DoubleJumpDemo", "Assembly-CSharp.csproj", "{32D720A2-79BE-3168-53BF-3D980A67C817}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32D720A2-79BE-3168-53BF-3D980A67C817}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32D720A2-79BE-3168-53BF-3D980A67C817}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32D720A2-79BE-3168-53BF-3D980A67C817}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32D720A2-79BE-3168-53BF-3D980A67C817}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
